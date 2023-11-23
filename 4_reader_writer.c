@@ -5,6 +5,7 @@
 #include <stdint.h>
 #include <unistd.h>
 
+// to execute use 'cc flie.c -lpthread' 
 
 #define R 5
 #define W 5
